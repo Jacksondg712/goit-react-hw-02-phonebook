@@ -1,0 +1,47 @@
+.contContacForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.containerPhone{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    border:1px solid; 
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;   
+    padding-left: 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.labelForm2{
+    margin-top: 10px;
+}
+
+.titleName{
+    margin-bottom: 5px;
+}
+
+.buttonForm{
+    margin-top: 20px;
+    width: 100px;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.Number{
+    margin-bottom: 0px;
+}
